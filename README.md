@@ -62,5 +62,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Author
   - [NurdinAJ](https://github.com/NurdinAJ)
-    ```sh
-    Make sure to replace `NurdinAJ` with your actual GitHub username and update the author's section with your name and GitHub profile link. This `README.md` provides a clear and structured guide for users on how to use the script, along with an example and additional information about the project.
