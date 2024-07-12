@@ -55,7 +55,7 @@ This Python script is designed to calculate and update ratings based on user inp
     Python 3.x
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE] file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/NurdinAJ/Rating-Calculation-Script/blob/main/LICENSE) file for details.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
